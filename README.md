@@ -12,7 +12,7 @@ Step 1:
 Go to https://physionet.org/content/mimiciii/1.4/ and request access to the MIMIC-3 Data. After you have been approved access to the data download ADMISSIONS.csv.gz and PATIENTS.csv.gz
 
 Step 1 Alternative:
-Go to https://physionet.org/content/mimiciii-demo/1.4/ and download ADMISSIONS.csv.gz and PATIENTS.csv.gz. Note that this is the demo version of the full dataset which is a lot smaller and is not what our report is based on. This should only be done to verify that the code runs properly.
+Go to https://physionet.org/content/mimiciii-demo/1.4/ and download ADMISSIONS.csv and PATIENTS.csv. Note that this is the demo version of the full dataset which is a lot smaller and is not what our report is based on. This should only be done to verify that the code runs properly.
 
 Step 2:
 unzip ADMISSIONS.csv.gz and PATIENTS.csv.gz into csv and put ADMISSIONS.csv and PATIENTS.csv in the raw_data directory
